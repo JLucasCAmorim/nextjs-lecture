@@ -1,0 +1,6 @@
+{
+  "name": "DevItz",
+  "description": "The first dev meeting in 2023.",
+  "price": 35.0,
+  "image": "http://localhost:8080/devitz.png"
+}
